@@ -1,0 +1,150 @@
+Apr 29, 2024 11:40:33 PM edu.curtin.app.App main
+INFO: Starting application
+Apr 29, 2024 11:40:33 PM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata.txt
+Apr 29, 2024 11:40:33 PM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+Apr 29, 2024 11:40:33 PM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+Apr 29, 2024 11:40:33 PM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+Apr 29, 2024 11:40:33 PM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+Apr 29, 2024 11:40:38 PM edu.curtin.app.App main
+INFO: User selected option: 1
+Apr 29, 2024 11:40:44 PM edu.curtin.app.EstimationManager estimateTaskEffort
+INFO: Task A effort estimated: 35
+Apr 29, 2024 11:40:46 PM edu.curtin.app.App main
+INFO: User selected option: 2
+Apr 29, 2024 11:40:55 PM edu.curtin.app.App main
+INFO: User selected option: 4
+Apr 29, 2024 11:40:55 PM edu.curtin.app.App main
+INFO: Saving data and exiting...
+Apr 29, 2024 11:40:55 PM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+Apr 29, 2024 11:40:55 PM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+Apr 29, 2024 11:40:55 PM edu.curtin.app.App main
+INFO: Application terminated.
+Apr 29, 2024 11:40:58 PM edu.curtin.app.App main
+INFO: Starting application
+Apr 29, 2024 11:40:59 PM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata.txt
+Apr 29, 2024 11:40:59 PM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+Apr 29, 2024 11:40:59 PM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+Apr 29, 2024 11:40:59 PM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+Apr 29, 2024 11:40:59 PM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+Apr 29, 2024 11:41:03 PM edu.curtin.app.App main
+INFO: User selected option: 4
+Apr 29, 2024 11:41:03 PM edu.curtin.app.App main
+INFO: Saving data and exiting...
+Apr 29, 2024 11:41:03 PM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+Apr 29, 2024 11:41:03 PM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+Apr 29, 2024 11:41:03 PM edu.curtin.app.App main
+INFO: Application terminated.
+May 01, 2024 4:27:21 PM edu.curtin.app.App main
+INFO: Starting application
+May 01, 2024 4:27:21 PM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata.txt
+May 01, 2024 4:27:21 PM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+May 01, 2024 4:27:21 PM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+May 01, 2024 4:27:21 PM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+May 01, 2024 4:27:21 PM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+May 01, 2024 4:27:37 PM edu.curtin.app.App main
+INFO: User selected option: 4
+May 01, 2024 4:27:37 PM edu.curtin.app.App main
+INFO: Saving data and exiting...
+May 01, 2024 4:27:37 PM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+May 01, 2024 4:27:37 PM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata.txt
+May 01, 2024 4:27:37 PM edu.curtin.app.App main
+INFO: Application terminated.
+May 01, 2024 4:27:49 PM edu.curtin.app.App main
+INFO: Starting application
+May 01, 2024 4:27:49 PM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata2.txt
+May 01, 2024 4:27:49 PM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+May 01, 2024 4:27:49 PM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata2.txt
+May 01, 2024 4:27:49 PM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+May 01, 2024 4:27:49 PM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata2.txt
+May 01, 2024 4:28:42 PM edu.curtin.app.App main
+INFO: User selected option: 3
+May 01, 2024 4:28:46 PM edu.curtin.app.WBS configureEstimation
+INFO: Configuration updated: Number of estimators set to 4, Reconciliation method set to: HighestEstimateStrategy
+May 01, 2024 4:28:49 PM edu.curtin.app.App main
+INFO: User selected option: 1
+May 01, 2024 4:29:09 PM edu.curtin.app.EstimationManager estimateTaskEffort
+INFO: Task M effort estimated: 5
+May 01, 2024 4:29:16 PM edu.curtin.app.EstimationManager estimateTaskEffort
+INFO: Task N effort estimated: 5
+May 01, 2024 4:29:19 PM edu.curtin.app.App main
+INFO: User selected option: 2
+May 01, 2024 4:29:23 PM edu.curtin.app.App main
+INFO: User selected option: 4
+May 01, 2024 4:29:23 PM edu.curtin.app.App main
+INFO: Saving data and exiting...
+May 01, 2024 4:29:23 PM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+May 01, 2024 4:29:23 PM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata2.txt
+May 01, 2024 4:29:23 PM edu.curtin.app.App main
+INFO: Application terminated.
+May 01, 2024 4:29:30 PM edu.curtin.app.App main
+INFO: Starting application
+May 01, 2024 4:29:30 PM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata2.txt
+May 01, 2024 4:29:30 PM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+May 01, 2024 4:29:30 PM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata2.txt
+May 01, 2024 4:29:30 PM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+May 01, 2024 4:29:30 PM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata2.txt
+May 01, 2024 4:29:42 PM edu.curtin.app.App main
+INFO: User selected option: 4
+May 01, 2024 4:29:42 PM edu.curtin.app.App main
+INFO: Saving data and exiting...
+May 01, 2024 4:29:42 PM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+May 01, 2024 4:29:42 PM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata2.txt
+May 01, 2024 4:29:42 PM edu.curtin.app.App main
+INFO: Application terminated.
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: Starting application
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata1.txt
+May 11, 2024 12:01:34 AM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata1.txt
+May 11, 2024 12:01:34 AM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata1.txt
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: User selected option: 4
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: Saving data and exiting...
+May 11, 2024 12:01:39 AM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata1.txt
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: Application terminated.

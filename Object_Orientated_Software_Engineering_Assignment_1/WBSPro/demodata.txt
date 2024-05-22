@@ -1,0 +1,17 @@
+; A ; TaskA ; 35
+; B ; TaskB ; 100
+; C ; TaskC ;
+C ; D ; TaskD ; 200
+C ; E ; TaskE ;
+E ; F ; TaskF ; 150
+E ; G ; TaskG ;
+; H ; TaskH ;
+; I ; TaskI ;
+I ; J ; TaskJ ;
+J ; K ; TaskK ;
+K ; L ; TaskL ;
+L ; M ; TaskM ; 6
+L ; N ; TaskN ; 6
+; O ; TaskO ;
+O ; P ; TaskP ;
+O ; Q ; TaskQ ;

@@ -1,0 +1,56 @@
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: Starting application
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: File existence check: File found at path: demodata1.txt
+May 11, 2024 12:01:34 AM edu.curtin.app.WBS <init>
+INFO: WBS initialised with default strategy.
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: Attempting to load data from file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata1.txt
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID A loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID B loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID C loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID D loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID E loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID F loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID G loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID H loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID I loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID J loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID K loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID L loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID M loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID N loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID O loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID P loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.data.DataLoader loadTasksFromFile
+INFO: Task with ID Q loaded from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.WBS loadWBSFromFile
+INFO: WBS data loaded successfully from file.
+May 11, 2024 12:01:34 AM edu.curtin.app.App main
+INFO: Data loaded successfully from C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata1.txt
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: User selected option: 4
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: Saving data and exiting...
+May 11, 2024 12:01:39 AM edu.curtin.app.WBS saveWBSToFile
+INFO: WBS data saved successfully to file.
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: Data successfully saved to file: C:\Users\RyanM\OneDrive\CurtinUniversity\2024\Semester1\OOSE\Assessments\Assignment1\RyanMackintosh_21171466_OOSE_Assignment_1\WBSPro\demodata1.txt
+May 11, 2024 12:01:39 AM edu.curtin.app.App main
+INFO: Application terminated.
